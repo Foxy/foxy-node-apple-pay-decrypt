@@ -1,5 +1,5 @@
 {
-  "name": "apple-pay-decrypt",
+  "name": "@foxy.io/apple-pay-decrypt",
   "version": "2.0.0",
   "description": "Enables decryption of Apple Pay tokens.",
   "main": "index.js",
